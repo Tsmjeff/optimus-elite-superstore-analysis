@@ -69,5 +69,5 @@ The goal was to transform raw sales data into actionable business insights using
 ## Project Files
 
 - [Power BI Dashboard](Optimum_Elite_Superstore_Analysis.pbix)
-- [Dataset](Optimus-Elite Superstore.xlsx)
+- [Dataset])(Optimus-Elite Superstore.xlsx)
 - [Business Performance Report](Optimus_Elite_Analysis.pptx)
