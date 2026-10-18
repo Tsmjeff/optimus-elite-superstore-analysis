@@ -465,6 +465,6 @@ The Power BI dashboard provides management with a framework for continuously mon
 
 ## Project Files
 
-- [Power BI Dashboard](Optimum_Elite_Superstore_Analysis.pbix)
+- [Power BI Dashboard](Optimum_Elite_Supestore_Analysis.pbix)
 - [Dataset](Optimus_Elite_Superstore_Excel.xlsx)
 - [Business Performance Report](Optimus_Elite_Analysis.pptx)
